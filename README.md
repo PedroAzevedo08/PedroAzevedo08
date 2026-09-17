@@ -33,12 +33,12 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroAzevedo08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAzevedo08&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroAzevedo08&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="48%" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAzevedo08&layout=compact&theme=tokyonight&hide_border=true&v=1" width="48%" alt="Linguagens mais usadas" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroAzevedo08&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroAzevedo08&theme=tokyonight&hide_border=true&v=1" width="100%" alt="GitHub Streak" />
 </div>
 
 ---
