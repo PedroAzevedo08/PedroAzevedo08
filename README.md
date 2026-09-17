@@ -55,7 +55,7 @@
 ## 🔗 Contato
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-azevedo-00896b433" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
   <a href="mailto:pedroliveirazevedo0908@gmail.com">
